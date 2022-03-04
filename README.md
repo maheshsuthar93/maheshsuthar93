@@ -4,7 +4,7 @@
     Google API,Flavoring, Deep link, Place Autocomplete, Firebase, Bluetooth, PayPal, AWS, Retrofit,
     RTL, Data-Binding, GPS , IOT, GetX, Socket, InApp Purchase etc.
 
-#### Backend Development(Node js Javascript & Typescript):
+#### Backend Development(Node js JavaScript & TypeScript):
     MySQL, Mongo DB, Firebase, SequelizeORM, Prisma ORM, Socket.IO, Apollo Express Server, GraphQL, Stripe, 
     Mail chimp & Send grid, Twilio, JWT, Api versioning,Deeplink, Googel API, Admin  Js, 
     ESLint and prittier,Firebase functions,payment gateways etc.
