@@ -4,8 +4,10 @@
     Google API,Flavoring, Deep link, Place Autocomplete, Firebase, Bluetooth, PayPal, AWS, Retrofit, RTL,                        Data-Binding, GPS , IOT,GetX,Socket,InApp Purchase
 
 #### Backend Development:
-    Socket.IO, Stripe, Mail chimp & Send grid, Twilio, JWT, Api versioning,Deeplink, Prisma, GraphQL, MySQL,Firebase, Mongo DB,Googel API, SequelizeORM,Admin  Js,Apollo Express Server,ESLint and prittier etc.
-   -Firebase functions
+    Socket.IO, Stripe, Mail chimp & Send grid, Twilio, JWT, Api versioning,Deeplink, 
+    Prisma, GraphQL, MySQL,Firebase, Mongo DB,Googel API, SequelizeORM,Admin  Js,Apollo Express Server,
+    ESLint and prittier etc.
+    Firebase functions
 
 #### Database:
     SQLite,MongoDB,MySql,Firebase
