@@ -34,8 +34,6 @@ React Native
    AWS:Hosting,EC2, IAM, S3, RDS, Security groups,Elastic IP etc.
 
 
-I am  focusing only on product and giving my best to complete project with good quality.
-
 Thank You
 
 
