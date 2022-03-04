@@ -1,4 +1,4 @@
-### I have 7+ years of experience in development,Team handling & Project management.
+### 7+ years of experience in development,Team handling & Project management.
 
 #### Mobile Development:
     Google API,Flavoring, Deep link, Place Autocomplete, Firebase, Bluetooth, PayPal, AWS, Retrofit,
