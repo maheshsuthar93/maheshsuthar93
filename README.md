@@ -3,13 +3,6 @@
 - 🔭 I’m working as a full stack developer
 - I have 7+ years of experience in development,Team handling & Project management.
 
-Skills:
-Android
-Flutter
-Angular
-Node JS
-React Native
-
 • Mobile Development-
    -Google API,Flavoring, Deep link, Place Autocomplete, Firebase, Bluetooth, PayPal, AWS, Retrofit, RTL,                        Data-Binding, GPS , IOT,GetX,Socket,InApp Purchase
 
