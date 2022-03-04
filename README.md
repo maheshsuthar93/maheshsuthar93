@@ -1,13 +1,13 @@
 ### 7+ years of experience in Development, Team handling & Project management.
 
 #### Mobile Development:
-    Google API,Flavoring, Deep link, Place Autocomplete, Firebase, Bluetooth, PayPal, AWS, Retrofit,
+    Google API,App Flavoring, Deep link, Place Autocomplete, Firebase, Bluetooth, PayPal, AWS, Retrofit,
     RTL, Data-Binding, GPS , IOT, GetX, Socket, InApp Purchase etc.
 
 #### Backend Development(Node js JavaScript & TypeScript):
     MySQL, Mongo DB, Firebase, SequelizeORM, Prisma ORM, Socket.IO, Apollo Express Server, GraphQL, Stripe, 
-    Mail chimp & Send grid, Twilio, JWT, Api versioning,Deeplink, Googel API, Admin  Js, 
-    ESLint and prittier,Firebase functions,payment gateways etc.
+    Mail chimp & Send grid, Twilio, JWT, Api versioning,Deeplink, Googel API, AdminJS, 
+    ESLint and Prittier,Firebase functions,Payment gateways etc.
 
 #### Database:
     MySql, MongoDB, SQLite, Firebase
