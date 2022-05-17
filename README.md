@@ -14,7 +14,9 @@
 
 #### Web Development:
     Angular: Google Services, GraphQL, Angular Widget, RxJs, Material-Bootstrap.
-    HTML/JQuery etc.
+    HTML/JQuery
+    React JS
+    Other: Open Graph
 
 #### IDEs: 
     Android Studio, Visual Studio Code, XCode etc.
