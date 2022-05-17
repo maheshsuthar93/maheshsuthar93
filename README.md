@@ -29,10 +29,10 @@
 #### Cloud computing:
     AWS: Hosting, EC2, IAM, S3, RDS, Security groups, Elastic IP, Route 53 etc.
 
-####Developed Apps:
-####Flutter
+#### Developed Apps:
+#### Flutter
     
-####React Native
+#### React Native
 SSGITS:
     https://play.google.com/store/apps/details?id=com.ssgits
 
