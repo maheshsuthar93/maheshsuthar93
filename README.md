@@ -31,6 +31,8 @@
 
 #### Developed Apps:
 #### Flutter
+InvestBeam
+    https://play.google.com/store/apps/details?id=com.tradenowone.tradenowone
     
 #### React Native
 SSGITS:
