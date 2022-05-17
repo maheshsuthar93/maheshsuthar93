@@ -49,7 +49,8 @@ Typewrighter
 
 #### Web
 Landing page
-    http://transporterindia.in/
+
+TransporterIndia http://transporterindia.in/
     
 
 #### Thank You
