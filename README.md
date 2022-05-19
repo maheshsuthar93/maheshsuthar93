@@ -47,6 +47,9 @@ Pocket Rehab
     
 Typewrighter
     https://play.google.com/store/apps/details?id=com.typewrighter
+    
+Veebook
+    https://play.google.com/store/apps/details?id=com.veebook.veebook
 
 #### Web
 Landing page
