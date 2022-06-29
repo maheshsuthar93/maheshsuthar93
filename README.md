@@ -30,7 +30,7 @@
     play console, Apple connect, Cashfree, RazorPay, Stripe etc.
 
 #### Cloud computing:
-    AWS: Hosting, EC2, IAM, S3, RDS, Security groups, Elastic IP, Route 53 etc.
+    AWS: Hosting, EC2, IAM, S3, RDS, Security groups, Elastic IP, Route 53,SSL etc.
 
 #### Developed Apps:
 #### Flutter
