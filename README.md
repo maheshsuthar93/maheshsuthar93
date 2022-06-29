@@ -28,7 +28,7 @@
 
 #### Development Console: 
     Firebase, Twilio, Mail Chimp, Aws, Google, Stripe, Paykun, Go Daddy, Google 
-    play console, Apple connect, Cashfree, RazorPay, Stripe etc.
+    play console, Apple connect, Cashfree, RazorPay, Stripe,Text Local,DLT Process etc.
 
 #### Cloud computing:
     AWS: Hosting, EC2, IAM, S3, RDS, Security groups, Elastic IP, Route 53,SSL etc.
