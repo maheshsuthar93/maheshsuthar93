@@ -5,7 +5,7 @@
 
 #### Mobile Development:(Android, Flutter, React Native)
     Google API,App Flavoring, Deep link, Place Autocomplete, Firebase, Bluetooth, PayPal, AWS, Retrofit,
-    RTL, Data-Binding, GPS , IOT, GetX, Socket, InApp Purchase etc.
+    RTL, Data-Binding, GPS , IOT, GetX,Bloc,Provider, Socket, InApp Purchase etc.
 
 #### Backend Development(Node js JavaScript & TypeScript):
     MySQL, Mongo DB, Firebase, SequelizeORM, Prisma ORM, Socket.IO, Apollo Express Server, GraphQL, Stripe, 
