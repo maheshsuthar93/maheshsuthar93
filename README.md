@@ -1,7 +1,8 @@
 ### 7+ years of experience in mobile app development, Team handling & Project management.
 ### 5+ In Flutter
-### 1+ In React Native
+### 2+ In React Native
 ### 3+ In Angular,Node
+### 5+ In Android Native(JAVA)
 
 #### Mobile Development:(Android, Flutter, React Native)
     Google API,App Flavoring, Deep link, Place Autocomplete, Firebase, Bluetooth, PayPal, AWS, Retrofit,
