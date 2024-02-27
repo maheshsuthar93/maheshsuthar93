@@ -1,4 +1,4 @@
-### 7+ years of experience in mobile app development, Team handling & Project management.
+### 9+ years of experience in mobile app development, Team handling & Project management.
 ### 5+ In Flutter
 ### 2+ In React Native
 ### 3+ In Angular,Node
