@@ -39,29 +39,22 @@
 
 #### Developed Apps:
 #### Flutter
-InvestBeam
     https://play.google.com/store/apps/details?id=com.tradenowone.tradenowone
-    
-TransporterIndia
     https://play.google.com/store/apps/details?id=com.transporterindia.driver
     
 Dating App    
     
 #### React Native
-SSGITS:
     https://play.google.com/store/apps/details?id=com.ssgits
+    https://play.google.com/store/apps/details?id=com.antarmanh.dstak&hl=en-IN
+    https://apps.apple.com/in/app/dsta-k/id6467372396
+    https://play.google.com/store/apps/details?id=com.estithmarholding.almahaisland&hl=en&pli=1
+    https://apps.apple.com/in/app/estateyes/id6503596978
     
 #### Android native
-Pocket Rehab
     https://play.google.com/store/apps/details?id=com.getpocketrehab.app
-    
-Typewrighter
     https://play.google.com/store/apps/details?id=com.typewrighter
-    
-Veebook
     https://play.google.com/store/apps/details?id=com.veebook.veebook
-    
-TODONotes
     https://play.google.com/store/apps/details?id=com.redgates.todonotelite
 
 #### Web
